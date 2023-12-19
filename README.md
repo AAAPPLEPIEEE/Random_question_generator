@@ -3,9 +3,9 @@
 
 ©AAAPPLEPIEEE
 
-1. Prepare multiple-choice question bank in DOC file.
+1. Prepare multiple-choice question bank in DOCX file.
 
-2. Change the file path of the DOC file in the program.
+2. Change the file path of the DOCX file in the program.
 
 3. Generate a random set of 20 questions from the question bank (5 points per question, total score of 100).
 
